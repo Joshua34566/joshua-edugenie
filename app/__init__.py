@@ -1,0 +1,2 @@
+"""EduGenie application package."""
+
